@@ -45,6 +45,10 @@ var result = johnBMI > markBMI;
 alert(`Is john's BMI greater than mark's?  ${result}`);
 */
 
+var x='21'
+var y=21
+console.log(y+x)
+
 var basketballScore = [
     ['John',108,90,200],
     ['Mike',109,87,190,170,200],
